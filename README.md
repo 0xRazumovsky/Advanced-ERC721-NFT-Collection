@@ -1,3 +1,6 @@
+[![Solidity 0.8.0](https://img.shields.io/badge/Solidity-%5E0.8.0-blue)](https://soliditylang.org)  
+[![License MIT](https://img.shields.io/badge/license-MIT-green)]()
+
 # ERC721 NFT Smart Contract
 
 A comprehensive ERC721 NFT smart contract built with Solidity and OpenZeppelin, featuring advanced functionality including royalty support, pausability, and batch minting.
