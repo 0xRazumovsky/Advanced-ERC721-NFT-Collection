@@ -81,6 +81,12 @@ The contract is optimized for gas efficiency with:
 - **Access**: Ownable pattern
 - **Security**: ReentrancyGuard and Pausable
 
+## Known limitations
+- UI/front-end not included
+- Gas optimization is basic; not suitable for large-scale minting
+- All functions in a single contract; modularity could be improved for production
+- Standard ERC721 logic; no custom features — project demonstrates understanding of ERC721 standard
+
 ## License
 
 MIT License - see LICENSE file for details 
